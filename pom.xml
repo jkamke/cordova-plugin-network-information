@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cordova-plugin</groupId>
-	<artifactId>cordova-plugin-network-information</artifactId>
+	<artifactId>amc-cordova-plugin-network-information</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
